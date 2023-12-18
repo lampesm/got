@@ -1,1 +1,8 @@
 # got
+
+## Use
+
+
+```bash
+make
+```
